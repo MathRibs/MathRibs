@@ -1,4 +1,4 @@
-### Olá meu nome e Matheus Ribamar
+### Olá meu nome é Matheus Ribamar
 
 - 🌱 Atualmente estou estudando JAVA e C# 
 - 👾 Focado no desenvolvimento Backend 🤖
