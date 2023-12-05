@@ -1,8 +1,5 @@
 ### Olá meu nome é Matheus Ribamar
 
-- 🌱 Atualmente estou estudando JAVA e C# 
-- 👾 Focado no desenvolvimento Backend 🤖
- 
 <div align="center">
   <a href="https://github.com/MathRibs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathRibs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
